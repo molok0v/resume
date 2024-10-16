@@ -214,6 +214,13 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 }
+.soft_skill_section1 {
+	color: #000;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+}
 .border_wrap {
 	padding: 8px;
 	border: 1px solid #fb6d3a;
